@@ -9,10 +9,9 @@
 }
 .box_1 {
 }
-.button {
+.box_2 {
 }
-.primary_button {
-  color:#FFFFFF;
+.ellipse {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -58,15 +57,11 @@
 ._文本段落 {
   text-align:left;
 }
-.icon {
-}
 .text_field {
   color:#000000;
   text-align:left;
 }
-.line {
+.icon {
 }
-.box_3 {
-}
-.image {
+.flow_shape {
 }
